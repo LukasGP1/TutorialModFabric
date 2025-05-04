@@ -1,0 +1,4 @@
+// 1.21	2025-05-04T15:47:53.1758905	Tutorial Mod Fabric/Block Loot Tables
+418fbb1e3d732817bd36c8425f5a75cf784ce92a data\tutorial_mod_fabric\loot_table\blocks\raw_ruby_block.json
+9fdb75760e72e994ec81f29da7647ddb1ab7ae87 data\tutorial_mod_fabric\loot_table\blocks\ruby_ore.json
+c9f7ae98e462859de89831e8b5c07312493b4207 data\tutorial_mod_fabric\loot_table\blocks\ruby_block.json
