@@ -1,5 +1,6 @@
 package de.lulkas_.tutorial_mod_fabric;
 
+import de.lulkas_.tutorial_mod_fabric.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +12,6 @@ public class TutorialModFabric implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}
 }
