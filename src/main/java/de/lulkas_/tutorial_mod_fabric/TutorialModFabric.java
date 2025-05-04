@@ -1,5 +1,7 @@
 package de.lulkas_.tutorial_mod_fabric;
 
+import de.lulkas_.tutorial_mod_fabric.block.ModBlocks;
+import de.lulkas_.tutorial_mod_fabric.item.ModItemGroups;
 import de.lulkas_.tutorial_mod_fabric.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,6 +14,8 @@ public class TutorialModFabric implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerModItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

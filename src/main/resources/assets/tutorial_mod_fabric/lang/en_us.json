@@ -1,4 +1,9 @@
 {
   "item.tutorial_mod_fabric.ruby": "Ruby",
-  "item.tutorial_mod_fabric.raw_ruby": "Raw Ruby"
+  "item.tutorial_mod_fabric.raw_ruby": "Raw Ruby",
+
+  "itemgroup.tutorial_mod_fabric.ruby_items": "Ruby Items",
+
+  "block.tutorial_mod_fabric.ruby_block": "Ruby Block",
+  "block.tutorial_mod_fabric.raw_ruby_block": "Raw Ruby Block"
 }
