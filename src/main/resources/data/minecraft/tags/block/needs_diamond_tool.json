@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tutorial_mod_fabric:ruby_block",
+    "tutorial_mod_fabric:raw_ruby_block",
+    "tutorial_mod_fabric:ruby_ore"
+  ]
+}
