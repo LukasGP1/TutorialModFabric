@@ -1,4 +1,7 @@
-// 1.21.1	2025-05-04T16:08:13.8175386	Tutorial Mod Fabric/Block Loot Tables
+// 1.21.1	2025-05-05T14:15:53.2884113	Tutorial Mod Fabric/Block Loot Tables
 418fbb1e3d732817bd36c8425f5a75cf784ce92a data\tutorial_mod_fabric\loot_table\blocks\raw_ruby_block.json
+c5dc1cc75ae54649d536dfd0e15ee7bbd81076c6 data\tutorial_mod_fabric\loot_table\blocks\end_ruby_ore.json
+d78b2ff06962bb0cd779b3564cb7b204aaffda90 data\tutorial_mod_fabric\loot_table\blocks\nether_ruby_ore.json
+912d2d0db0d9cf033c6b4b57b820ad6f82ce790d data\tutorial_mod_fabric\loot_table\blocks\deepslate_ruby_ore.json
 9fdb75760e72e994ec81f29da7647ddb1ab7ae87 data\tutorial_mod_fabric\loot_table\blocks\ruby_ore.json
 c9f7ae98e462859de89831e8b5c07312493b4207 data\tutorial_mod_fabric\loot_table\blocks\ruby_block.json

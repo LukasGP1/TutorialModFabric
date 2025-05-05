@@ -28,6 +28,24 @@ public class ModBlocks {
     ));
 
     public static final Block RUBY_ORE = registerBlock("ruby_ore", new ExperienceDroppingBlock(UniformIntProvider.create(5, 10), AbstractBlock.Settings.create()
+            .strength(3f)
+            .sounds(BlockSoundGroup.AMETHYST_BLOCK)
+            .requiresTool()
+    ));
+
+    public static final Block DEEPSLATE_RUBY_ORE = registerBlock("deepslate_ruby_ore", new ExperienceDroppingBlock(UniformIntProvider.create(5, 10), AbstractBlock.Settings.create()
+            .strength(4f)
+            .sounds(BlockSoundGroup.AMETHYST_BLOCK)
+            .requiresTool()
+    ));
+
+    public static final Block NETHER_RUBY_ORE = registerBlock("nether_ruby_ore", new ExperienceDroppingBlock(UniformIntProvider.create(5, 10), AbstractBlock.Settings.create()
+            .strength(2f)
+            .sounds(BlockSoundGroup.AMETHYST_BLOCK)
+            .requiresTool()
+    ));
+
+    public static final Block END_RUBY_ORE = registerBlock("end_ruby_ore", new ExperienceDroppingBlock(UniformIntProvider.create(5, 10), AbstractBlock.Settings.create()
             .strength(4f)
             .sounds(BlockSoundGroup.AMETHYST_BLOCK)
             .requiresTool()
@@ -49,6 +67,9 @@ public class ModBlocks {
             entries.add(ModBlocks.RUBY_BLOCK);
             entries.add(ModBlocks.RAW_RUBY_BLOCK);
             entries.add(ModBlocks.RUBY_ORE);
+            entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
+            entries.add(ModBlocks.NETHER_RUBY_ORE);
+            entries.add(ModBlocks.END_RUBY_ORE);
         });
     }
 }

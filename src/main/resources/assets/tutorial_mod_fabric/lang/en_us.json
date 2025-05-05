@@ -7,5 +7,8 @@
 
   "block.tutorial_mod_fabric.ruby_block": "Ruby Block",
   "block.tutorial_mod_fabric.ruby_ore": "Ruby Ore",
+  "block.tutorial_mod_fabric.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.tutorial_mod_fabric.nether_ruby_ore": "Nether Ruby Ore",
+  "block.tutorial_mod_fabric.end_ruby_ore": "End Ruby Ore",
   "block.tutorial_mod_fabric.raw_ruby_block": "Raw Ruby Block"
 }

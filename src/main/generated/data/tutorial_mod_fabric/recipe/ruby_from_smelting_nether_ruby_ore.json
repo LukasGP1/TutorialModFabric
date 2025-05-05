@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "group": "ruby",
+  "ingredient": {
+    "item": "tutorial_mod_fabric:nether_ruby_ore"
+  },
+  "result": {
+    "id": "tutorial_mod_fabric:ruby"
+  }
+}

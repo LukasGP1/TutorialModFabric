@@ -18,11 +18,17 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
         getOrCreateTagBuilder(BlockTags.PICKAXE_MINEABLE)
                 .add(ModBlocks.RUBY_BLOCK)
                 .add(ModBlocks.RAW_RUBY_BLOCK)
-                .add(ModBlocks.RUBY_ORE);
+                .add(ModBlocks.RUBY_ORE)
+                .add(ModBlocks.DEEPSLATE_RUBY_ORE)
+                .add(ModBlocks.NETHER_RUBY_ORE)
+                .add(ModBlocks.END_RUBY_ORE);
 
         getOrCreateTagBuilder(BlockTags.NEEDS_DIAMOND_TOOL)
                 .add(ModBlocks.RUBY_BLOCK)
                 .add(ModBlocks.RAW_RUBY_BLOCK)
-                .add(ModBlocks.RUBY_ORE);
+                .add(ModBlocks.RUBY_ORE)
+                .add(ModBlocks.DEEPSLATE_RUBY_ORE)
+                .add(ModBlocks.NETHER_RUBY_ORE)
+                .add(ModBlocks.END_RUBY_ORE);
     }
 }
