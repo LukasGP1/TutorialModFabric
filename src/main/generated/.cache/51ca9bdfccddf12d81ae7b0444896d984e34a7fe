@@ -1,1 +1,7 @@
-// 1.21.1	2025-05-05T14:15:53.287178	Tutorial Mod Fabric/
+// 1.21.1	2025-05-05T14:54:47.2776976	Tutorial Mod Fabric/
+cc6fc75a0c293ee40e2e439e4351ecaf13d74b9f data\tutorial_mod_fabric\worldgen\configured_feature\nether_ruby_ore.json
+6c5f2f210ddd117c8fb0244f3d180c23492b573c data\tutorial_mod_fabric\worldgen\placed_feature\ruby_ore_placed.json
+c56869b665ab4c4ab7b67ca93b1424ca5cff9eb3 data\tutorial_mod_fabric\worldgen\configured_feature\end_ruby_ore.json
+28c8e3485957e2d5c8af6122ebea79e8f4dabaf6 data\tutorial_mod_fabric\worldgen\placed_feature\end_ruby_ore_placed.json
+4a3ecb427133e0eb0773407de6b951c2c3709f72 data\tutorial_mod_fabric\worldgen\placed_feature\nether_ruby_ore_placed.json
+503ae493d30ff7f95eee65bb632ea8f1ffe22ff8 data\tutorial_mod_fabric\worldgen\configured_feature\ruby_ore.json
